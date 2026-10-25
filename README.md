@@ -1,12 +1,13 @@
-
-
 <div align="center">
   <img
     src="./assets/asheek_professional_animated_banner.gif"
-    alt="Asheek Shaik — Professional Animated Developer Banner"
+    alt="Asheek Shaik — Animated Developer Banner"
     width="100%"
   />
 </div>
+
+<br/>
+
 
 <br/>
 
