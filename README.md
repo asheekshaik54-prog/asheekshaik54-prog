@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="./assets/asheek-professional-banner.gif"
+    src="./assets/asheek_professional_animated_banner.gif"
     alt="Asheek Shaik — Professional Animated Developer Banner"
     width="100%"
   />
