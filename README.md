@@ -274,6 +274,26 @@ These experiences have supported my learning in software development, AI/ML conc
 
 <br/><br/>
 
+---
+
+## 📚 Currently Learning
+
+- 🧩 **Data Structures & Algorithms with Python** — Strengthening problem-solving skills, algorithm design, and coding fundamentals.
+- 📊 **Data Analysis** — Learning data cleaning, exploratory data analysis, and extracting insights using Python, Pandas, NumPy, and SQL.
+- 🤖 **AI Engineering** — Exploring local LLM applications, chatbots using Ollama and Llama 3, prompt engineering, and Retrieval-Augmented Generation (RAG).
+
+---
+
+## 🤝 Open to Collaborate On
+
+- 🌍 **Open-Source Projects** — Contributing to useful tools and community-driven projects.
+- 💻 **Freelance Opportunities** — Building practical software and web applications.
+- 🔬 **Research Projects** — Exploring AI/ML, Generative AI, and innovative software solutions.
+- 💡 **Startup Ideas** — Collaborating on creative ideas and turning them into working products.
+
+---
+
+
 <i>Thanks for visiting my profile! I'm always learning, building, and exploring new ideas.</i>
 
 ### Learn. Build. Improve. Repeat. 🚀
