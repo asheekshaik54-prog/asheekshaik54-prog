@@ -1,5 +1,11 @@
 
 <div align="center">
+  <img src="./assets/asheek_professional_animated_banner.gif"
+       alt="Asheek Shaik Animated Banner"
+       width="100%" />
+</div>
+
+<div align="center">
 
 # 👋 Hey, I'm Asheek Shaik
 
@@ -23,11 +29,7 @@
 
 </div>
 
-<div align="center">
-  <img src="./assets/asheek_professional_animated_banner.gif"
-       alt="Asheek Shaik Animated Banner"
-       width="100%" />
-</div>
+
 ---
 
 ## 👨‍💻 About Me
