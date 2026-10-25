@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="./assets/asheek_professional_animated_banner.gif"
+    src="./asheek_professional_animated_banner.gif"
     alt="Asheek Shaik — Animated Developer Banner"
     width="100%"
   />
